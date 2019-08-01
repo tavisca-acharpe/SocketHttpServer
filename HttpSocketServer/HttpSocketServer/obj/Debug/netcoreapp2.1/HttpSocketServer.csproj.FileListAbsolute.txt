@@ -1,0 +1,11 @@
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\obj\Debug\netcoreapp2.1\HttpSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\obj\Debug\netcoreapp2.1\HttpSocketServer.AssemblyInfoInputs.cache
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\obj\Debug\netcoreapp2.1\HttpSocketServer.AssemblyInfo.cs
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\bin\Debug\netcoreapp2.1\HttpSocketServer.deps.json
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\bin\Debug\netcoreapp2.1\HttpSocketServer.runtimeconfig.json
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\bin\Debug\netcoreapp2.1\HttpSocketServer.runtimeconfig.dev.json
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\bin\Debug\netcoreapp2.1\HttpSocketServer.dll
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\bin\Debug\netcoreapp2.1\HttpSocketServer.pdb
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\obj\Debug\netcoreapp2.1\HttpSocketServer.dll
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\obj\Debug\netcoreapp2.1\HttpSocketServer.pdb
+C:\Users\acharpe\source\repos\HttpSocketServer\HttpSocketServer\obj\Debug\netcoreapp2.1\HttpSocketServer.csprojAssemblyReference.cache
